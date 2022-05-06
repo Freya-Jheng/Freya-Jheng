@@ -11,12 +11,8 @@
 
 ## Contact Me
 <a href="mailto:freyjheng@gmail.com">
-  <img src="https://img.shields.io/badge/freyajheng@gmail.com-fdcfca?style=for-the-badge&logo=Gmail&logoColor=#ffffff">
+  <img src="https://img.shields.io/badge/freyajheng@gmail.com-fafafa?style=for-the-badge&logo=Gmail&logoColor=#ffffff">
 </a>
-<a herf="https://freyajheng.medium.com/">
-<img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=Medium&logoColor=#EA4335">
-</a>
-<!-- ![image](https://img.shields.io/badge/freyajheng@gmail.com-fdcfca?style=for-the-badge&logo=Gmail&logoColor=#ffffff) -->
 
 ****
 
